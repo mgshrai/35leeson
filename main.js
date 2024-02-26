@@ -7,6 +7,7 @@ function logName() {
 const object1 = {
     name: "object1",
     logName: logName
+    
 };
 
 const object2 = {
